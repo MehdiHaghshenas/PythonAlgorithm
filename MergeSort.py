@@ -25,7 +25,7 @@ def mergeSort(arr):
 				arr[k] = L[i]
 				i += 1
 			else:
-				arr[k] = R[j]
+				arr[k] = R[j] 
 				j += 1
 			k += 1
 
